@@ -56,7 +56,7 @@ btnElement.addEventListener('mouseover', function () {
   myHoverInterval = setInterval(function () {
     changeColors(colors);
     setColors();
-  }, 100);
+  }, 70);
 });
 
 btnElement.addEventListener('mouseout', function () {

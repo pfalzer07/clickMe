@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.2s linear;
+  transition: all 0.1s linear;
 }
 #first {
   width: 100%;
@@ -33,6 +33,7 @@ body {
   justify-content: center;
   z-index: 2;
   transition: inherit;
+  font-size: 30px;
 }
 
 button {
